@@ -1,3 +1,20 @@
+# Fullscreen suckless DWM
+
+This is a fork of [suckless dwm](https://dwm.suckless.org) configured for a full screen experience.
+It inherits a couple of keybindings from [i3](https://i3wm.org/) 
+
+By default, the terminal invoked is [Alacritty](https://github.com/alacritty/alacritty).
+
+### Changed keybindings
+- The modkey is now Super (also known as the Windows key), so use it where you would normally use Alt.
+- To launch (dmenu)[https://tools.suckless.org/dmenu/], press Super+D.
+- To launch the terminal, press Super+Enter.
+- The keybinding to show the dwm bar has been removed.
+
+Every other keybinding is the same, albeit the different modkey.
+
+### Standard README
+```
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
@@ -46,3 +63,4 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+```
