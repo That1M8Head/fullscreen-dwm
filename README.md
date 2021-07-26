@@ -7,7 +7,7 @@ By default, the terminal invoked is [Alacritty](https://github.com/alacritty/ala
 
 ### Changed keybindings
 - The modkey is now Super (also known as the Windows key), so use it where you would normally use Alt.
-- To launch (dmenu)[https://tools.suckless.org/dmenu/], press Super+D.
+- To launch [dmenu](https://tools.suckless.org/dmenu/), press Super+D.
 - To launch the terminal, press Super+Enter.
 - The keybinding to show the dwm bar has been removed.
 
