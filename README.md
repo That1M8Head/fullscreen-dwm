@@ -1,7 +1,7 @@
 # Fullscreen suckless DWM
 
 This is a fork of [suckless dwm](https://dwm.suckless.org) configured for a full screen experience.
-It inherits a couple of keybindings from [i3](https://i3wm.org/) 
+It inherits a couple of keybindings from [i3](https://i3wm.org/).
 
 By default, the terminal invoked is [Alacritty](https://github.com/alacritty/alacritty).
 
